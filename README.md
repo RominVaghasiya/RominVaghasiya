@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romin Vaghasiya</h1>
 <h3 align="center">ICT Engineer</h3>
 
-- 🌱  **Full Stack Development and AI/ML**
+- 🌱  **Full Stack Development(AI Native Ecosystem)**
 
 - 📫 How to reach me **vaghasiyaromin23@gmail.com**
 
