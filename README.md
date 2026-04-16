@@ -2,19 +2,15 @@
 <h3 align="center">🚀 Full Stack Developer | AI Builder | Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Native+Builder;Backend+Engineer;Building+Automation+Tools;Always+Learning...&center=true&width=600&height=50&color=00C2FF&vCenter=true&size=22">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RominVaghasiya&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Native+Builder;Backend+Engineer;Building+Automation+Tools;Always+Learning...&center=true&width=600&height=50&color=00F7FF&vCenter=true&size=22">
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 - 🔭 Building **AI Agents & Automation Systems**
-- 🌱 Learning **Advanced Backend (Go, APIs, Systems Design)**
-- 💡 Focused on **Scalable SaaS & AI-native products**
+- 🌱 Learning **Backend (Go, APIs, System Design)**
+- 💡 Focused on **Scalable SaaS Products**
 - 📫 Email: **vaghasiyaromin23@gmail.com**
 
 ---
@@ -36,50 +32,30 @@
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
-</p>
-
-### 🌐 Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### ⚡ Backend & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=go,postgres,mysql,git,linux,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RominVaghasiya&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RominVaghasiya&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RominVaghasiya&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,go,postgres,nodejs,mysql,git,linux,figma" />
 </p>
 
 ---
 
 ## 🚀 Featured Focus
-- 🤖 AI Agents (LinkedIn Automation, Content Generation)
-- ⚡ Backend Systems (Go APIs, Microservices)
-- 🌐 Full Stack Projects (End-to-End SaaS)
+- 🤖 AI Agents & Automation
+- ⚡ Backend Systems (Go APIs)
+- 🌐 Full Stack SaaS Development
 
 ---
 
 ## 🧠 Currently Exploring
-- 🧩 System Design & Scaling
-- ☁️ DevOps & Deployment
-- 🔗 AI + Automation Workflows
+- System Design
+- AI + Automation Workflows
+- DevOps & Deployment
+
+---
+
+## 📌 Projects (Add your best work here)
+- 🔹 AI LinkedIn Automation Agent
+- 🔹 E-commerce SaaS Platform
+- 🔹 RSS + AI Content Backend
 
 ---
 
