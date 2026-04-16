@@ -2,9 +2,8 @@
 <h3 align="center">🚀 Full Stack Developer | AI Builder | Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Native+Builder;Backend+Engineer;Building+Automation+Tools;Always+Learning...&center=true&width=600&height=50&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Native+Builder;Backend+Engineer;Building+Automation+Tools;Always+Learning...&center=true&width=600&height=50&color=00F7FF&vCenter=true&size=22&duration=3000&pause=1000">
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
