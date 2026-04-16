@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Native+Builder;Backend+Engineer;Building+Automation+Tools;Always+Learning...&center=true&width=600&height=50&color=8A2BE2&vCenter=true&size=24&font=Orbitron">
 </p>
----
+
 
 ## 🧑‍💻 About Me
 - 🔭 Building **AI Agents & Automation Systems**
@@ -51,7 +51,7 @@
 
 ---
 
-## 📌 Projects (Add your best work here)
+## 📌 Projects 
 - 🔹 AI LinkedIn Automation Agent
 - 🔹 E-commerce SaaS Platform
 - 🔹 RSS + AI Content Backend
