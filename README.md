@@ -54,7 +54,7 @@
 ## 📌 Projects 
 - 🔹 AI LinkedIn Automation Agent
 - 🔹 E-commerce SaaS Platform
-- 🔹 RSS + AI Content Backend
+- 🔹 Restaurant Suggestions System + AI Content Backend
 - 🔹 Smart interview assessment platform based system
 
 ---
